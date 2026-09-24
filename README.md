@@ -27,29 +27,29 @@ A web-based Language Translation Tool built with **Python** and **Streamlit**. U
    git clone https://github.com/ramyahk01/CodeAlpha_LanguageTranslationTool.git
    cd CodeAlpha_LanguageTranslationTool
 
-Create and activate a virtual environment:
+## Create and activate a virtual environment:
 
 bash
 python -m venv venv
 venv\Scripts\activate
 
-Install dependencies:
-bash
+## Install dependencies:
+  ```bash
 pip install -r requirements.txt
 
-Run the app:
-bash
+## Run the app:
+  ```bash
 streamlit run app.py
 
-Open your browser at http://localhost:8501
+## Open your browser at http://localhost:8501
 
-📁 Project Structure
+## 📁 Project Structure
 CodeAlpha_LanguageTranslationTool/
 ├── app.py                 # Main application code
 ├── requirements.txt       # Dependencies
 └── README.md              # Project documentation
 
-🎯 How It Works
+## 🎯 How It Works
 User enters text and selects source + target languages
 
 The app sends the text to the translation API
@@ -58,8 +58,8 @@ The API returns the translated text
 
 Streamlit displays the result instantly
 
-👤 Author
+## 👤 Author
 Your Name — B.Tech AI & ML Student
 
-📜 License
+## 📜 License
 This project is part of the CodeAlpha internship program.
