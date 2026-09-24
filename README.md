@@ -29,19 +29,17 @@ A web-based Language Translation Tool built with **Python** and **Streamlit**. U
 
 ## Create and activate a virtual environment:
 
-bash
 python -m venv venv
 venv\Scripts\activate
 
 ## Install dependencies:
-  ```bash
 pip install -r requirements.txt
 
 ## Run the app:
-  ```bash
-streamlit run app.py
+ streamlit run app.py
 
-## Open your browser at http://localhost:8501
+## Open your browser at 
+http://localhost:8501
 
 ## 📁 Project Structure
 CodeAlpha_LanguageTranslationTool/
