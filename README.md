@@ -57,7 +57,7 @@ The API returns the translated text
 Streamlit displays the result instantly
 
 ## 👤 Author
-Your Name — B.Tech AI & ML Student
+RAMYA HK — B.Tech AI & ML Student
 
 ## 📜 License
 This project is part of the CodeAlpha internship program.
